@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raffimh&label=Profile%20views&color=0e75b6&style=flat" alt="raffimh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raffimh" alt="raffimh" /></a> </p>
-
 - 🔭 I’m currently working on **Freelance**
 
 - 💬 Ask me about **react, next, express**
@@ -19,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffimh&show_icons=true&locale=en&layout=compact" alt="raffimh" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=raffimh&" alt="raffimh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raffimh&" alt="raffimh" /></p>
