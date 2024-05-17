@@ -7,4 +7,4 @@
 
 - 💬 Ask me about **react, next, express**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffimh&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&count_private=true" alt="raffimh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffimh&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&count_private=true" alt="raffimh" /></p>
