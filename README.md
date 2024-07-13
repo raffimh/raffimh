@@ -13,6 +13,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23404d59.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23404d59.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23404d59.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffimh&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&count_private=true" alt="raffimh" /></p>
