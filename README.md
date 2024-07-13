@@ -19,6 +19,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffimh&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&count_private=true" alt="raffimh" /></p>
