@@ -1,4 +1,4 @@
-![Header Image]([https://raw.githubusercontent.com/DuLatif/dulatif/main/dark-github-banner.jpg](https://raw.githubusercontent.com/raffimh/raffimh/master/dark-github-banner.jpg))
+![Header Image](https://raw.githubusercontent.com/raffimh/raffimh/master/dark-github-banner.jpg)
 
 <h1 align="left">Hi 👋, I'm Raffi Maulana Hadi</h1>
 <h3 align="left">A passionate Full-Stack Web Developer Javascript</h3>
