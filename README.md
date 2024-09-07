@@ -14,12 +14,16 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%2320232a.svg?style=for-the-badge&logo=astro&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%2320232a.svg?style=for-the-badge&logo=chakraui&logoColor=2320232a) ![DaisyUI](https://img.shields.io/badge/daisyui-%2320232a?style=for-the-badge&logo=daisyui&logoColor=C76395)
 
 ### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b) ![SQLite](https://img.shields.io/badge/sqlite-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=409AD5) ![Supabase](https://img.shields.io/badge/Supabase-%2320232a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b) ![SQLite](https://img.shields.io/badge/sqlite-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=409AD5) ![Supabase](https://img.shields.io/badge/Supabase-%2320232a?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![Sequelize](https://img.shields.io/badge/Sequelize-%2320232a?style=for-the-badge&logo=Sequelize&logoColor=52B0E7) ![Prisma](https://img.shields.io/badge/Prisma-%2320232a?style=for-the-badge&logo=Prisma&logoColor=3982CE)
+
+### Tools
+![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=D74A34) ![Postman](https://img.shields.io/badge/postman-%2320232a.svg?style=for-the-badge&logo=postman&logoColor=F76935) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 
 
 
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffimh&show_icons=true&locale=en&layout=compact&theme=light&langs_count=6&count_private=true" alt="raffimh" /></p>
+<p><img  height="165" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=raffimh&" alt="raffimh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffimh&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&count_private=true" alt="raffimh" /></p>
