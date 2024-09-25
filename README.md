@@ -1,5 +1,3 @@
-![Header Image](https://raw.githubusercontent.com/raffimh/raffimh/master/dark-github-banner-1.jpg)
-
 <h1 align="left">Hi 👋, I'm Raffi Maulana Hadi</h1>
 <h3 align="left">A passionate Full-Stack Web Developer Javascript</h3>
 
