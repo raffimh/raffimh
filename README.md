@@ -23,5 +23,5 @@
 
 
 <p><img  width="325" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raffimh&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&count_private=true" alt="raffimh" /></p>
-<a  href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raffimh&theme=dark&hide_border=false&card_width=425&card_height=177" alt="GitHub Streak" /></a>
+<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-wheat-nine.vercel.app?user=raffimh&theme=dark&hide_border=false&card_width=425&card_height=177" alt="GitHub Streak" /></a>
 
