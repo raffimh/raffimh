@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 💬 Ask me about **next, express**
+- 💬 Ask me about **next.js**
 
 ### Programming Language
 ![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=DC4D25) ![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=2762E9) ![SASS](https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=C76395) ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=E9D44D) ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=2E73C0)
