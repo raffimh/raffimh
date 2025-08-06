@@ -6,7 +6,7 @@
 - 💬 Ask me about **next.js**
 
 ### Programming Language
-![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=DC4D25) ![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=2762E9) ![SASS](https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=C76395) ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=E9D44D) ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=2E73C0)
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=E9D44D) ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=2E73C0)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-%2320232a?style=for-the-badge&logo=react-router&logoColor=CA4245) ![Radix UI](https://img.shields.io/badge/radix%20ui-%2320232a.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
